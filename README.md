@@ -10,7 +10,7 @@ This code is developed under Python 3 and the following packages are required fo
 
 ## Code structure
 
-The repository contains code for the model (`Curb` and baseline methods) execution. Also, it contains Jupyter notebook files for generating figures in the paper and user exposure data for `Twitter`, `Weibo` datasets.
+The repository contains code for the execution of the model (`Curb`) and baseline methods. Also, it contains Jupyter notebook files for generating figures in the paper and user exposure data for `Twitter`, `Weibo` datasets.
 
  - `code` directory contains code for executing the model and baselines.
    - `generate_results.py` : Given the user exposure data (which uses exposure data in `Twitter` and `Weibo` directories) executes the models (`Curb` and baseline methods) and saves the results in `pkl` files.
@@ -24,7 +24,7 @@ The repository contains code for the model (`Curb` and baseline methods) executi
 
 ## Raw data
 
-We use the raw `Twitter` and `Weibo` data that provides users' networks and sharing logs, stories, and labels for the stories (whether the story contains misinformation or not). The reference for the data is:
+We use the raw `Twitter` and `Weibo` data that include users' networks and sharing logs, stories, and labels for the stories (whether the story contains misinformation or not). The reference for the data is:
 
 > S. Kwon, M. Cha, and K Jung. 2017. Rumor detection over varying time windows. PLOS ONE 12, 1 (2017), e0168344.
 
