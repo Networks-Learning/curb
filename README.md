@@ -2,7 +2,7 @@
 
 This is a repository containing code for the paper:
 
-> J. kim, B. Tabibian, A. Oh, B. Schölkopf, M. Gomez-Rodriguez. Leveraging the Crowd to Detect and Reduce the Spread of Fake News and Misinformation. In Proceedings of the 11th ACM International Conference on Web Search and Data Mining (WSDM), 2018.
+> J. Kim, B. Tabibian, A. Oh, B. Schölkopf, M. Gomez-Rodriguez. Leveraging the Crowd to Detect and Reduce the Spread of Fake News and Misinformation. In Proceedings of the 11th ACM International Conference on Web Search and Data Mining (WSDM), 2018.
 
 ## Pre-requisites
 
@@ -32,5 +32,7 @@ and it can be downloaded from the following link:
 
 > https://sites.google.com/site/iswgao/
 
+## Questions
 
+For further inquiries, please contact Jooyeon Kim (jooyeon.kim@kaist.ac.kr)
 
